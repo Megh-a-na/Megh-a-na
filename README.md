@@ -1,4 +1,4 @@
-👋 Hello, I'm Meghana Kumar
+## 👋 Hello, I'm Meghana Kumar
 
 I'm currently pursuing third year B.Tech in Information Technology at SSN College of Engineering. I’m interested in solving real-world problems through software, and I enjoy building systems that are both practical and thoughtfully designed. My projects reflect a strong foundation in core programming concepts and a focus on user-centric solutions.
 
